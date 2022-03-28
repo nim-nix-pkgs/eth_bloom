@@ -11,7 +11,6 @@
   inputs.src-eth_bloom-master.ref   = "refs/heads/master";
   inputs.src-eth_bloom-master.owner = "status-im";
   inputs.src-eth_bloom-master.repo  = "nim-eth-bloom";
-  inputs.src-eth_bloom-master.dir   = "";
   inputs.src-eth_bloom-master.type  = "github";
   
   inputs."nimcrypto".owner = "nim-nix-pkgs";
