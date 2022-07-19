@@ -14,11 +14,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1658019233,
-        "narHash": "sha256-R2GaQGTkp+NlTKNcnehxBOs1jISGY+lg8DvU+ZhiREs=",
+        "lastModified": 1658033132,
+        "narHash": "sha256-7ATSagmafizNm108LDU2HisqG2ab2xrXzCxn+AUR/PY=",
         "owner": "nim-nix-pkgs",
         "repo": "eth_bloom",
-        "rev": "09a0caff400505e35d30e485737ba3a05161adc4",
+        "rev": "39a83d7051e4d0b9c8fce29265b63f3ee21afe60",
         "type": "github"
       },
       "original": {
